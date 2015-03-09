@@ -1,0 +1,16 @@
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\bin\Proyecto_M7_C.dll
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\bin\Proyecto_M7_C.pdb
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\bin\Proyecto_M7_C.xml
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\obj\Debug\Proyecto_M7_C.Resources.resources
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\obj\Debug\Proyecto_M7_C.vbproj.GenerateResource.Cache
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\obj\Debug\Proyecto_M7_C.dll
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\obj\Debug\Proyecto_M7_C.xml
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\obj\Debug\Proyecto_M7_C.pdb
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\bin\Proyecto_M7_C.dll
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\bin\Proyecto_M7_C.pdb
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\bin\Proyecto_M7_C.xml
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\obj\Debug\Proyecto_M7_C.Resources.resources
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\obj\Debug\Proyecto_M7_C.vbproj.GenerateResource.Cache
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\obj\Debug\Proyecto_M7_C.dll
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\obj\Debug\Proyecto_M7_C.xml
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\Proyecto_M7_C\Proyecto_M7_C\obj\Debug\Proyecto_M7_C.pdb
