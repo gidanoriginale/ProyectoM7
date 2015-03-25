@@ -6,7 +6,7 @@ Module Module2
     Sub carregarArray()
         Dim conectionString As String = "Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True;User Instance=True"
         Dim conexio As New SqlConnection(conectionString)
-        Dim comanda As New SqlCommand("Select * from Table1", conexio)
+        Dim comanda As New SqlCommand("Select * from Empleat", conexio)
 
         Dim dataSet As New DataSet
         Dim dataAdapter As New SqlDataAdapter(comanda)
@@ -24,8 +24,6 @@ Module Module2
                 nou.pCategoria = cursor("idCategoria")
                 nou.pAssignacio = cursor("idAssignacio")
                 nou.pNom = cursor("nom")
-
-
                 i += 1
             Loop
 

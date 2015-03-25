@@ -6,7 +6,143 @@ Proyecto_M7_C
 </name>
 </assembly>
 <members>
-<member name="F:Proyecto_M7_C.Site.HeadContent">
+<member name="F:Proyecto_M7_C.veureCursosNoLaborals.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.veureCursosNoLaborals.DropDownList1">
+	<summary>
+Control DropDownList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.veureCursosNoLaborals.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.veureCursosNoLaborals.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.veureCursosNoLaborals.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.veureCursosNoLaborals.Label4">
+	<summary>
+Control Label4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.Register.RegisterUser">
+	<summary>
+Control RegisterUser.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.Register.RegisterUserWizardStep">
+	<summary>
+Control RegisterUserWizardStep.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.WebForm1.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.WebForm1.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.WebForm1.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.WebForm1.DropDownList1">
+	<summary>
+Control DropDownList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.WebForm1.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.WebForm1.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.WebForm1.DropDownList2">
+	<summary>
+Control DropDownList2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.WebForm1.Label4">
+	<summary>
+Control Label4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.WebForm1.Label5">
+	<summary>
+Control Label5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.Site.HeadContent">
 	<summary>
 Control HeadContent.
 </summary>
@@ -54,6 +190,40 @@ Control MainContent.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
+</member><member name="M:Proyecto_M7_C.servei.WebService1.#ctor">
+	<remarks/>
+</member><member name="E:Proyecto_M7_C.servei.WebService1.horesCompleted">
+	<remarks/>
+</member><member name="E:Proyecto_M7_C.servei.WebService1.calculDespesesCompleted">
+	<remarks/>
+</member><member name="M:Proyecto_M7_C.servei.WebService1.hores">
+	<remarks/>
+</member><member name="M:Proyecto_M7_C.servei.WebService1.horesAsync">
+	<remarks/>
+</member><member name="M:Proyecto_M7_C.servei.WebService1.horesAsync(System.Object)">
+	<remarks/>
+</member><member name="M:Proyecto_M7_C.servei.WebService1.calculDespeses(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Proyecto_M7_C.servei.WebService1.calculDespesesAsync(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Proyecto_M7_C.servei.WebService1.calculDespesesAsync(System.Int32,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:Proyecto_M7_C.servei.WebService1.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Proyecto_M7_C.servei.WebService1">
+	<remarks/>
+</member><member name="T:Proyecto_M7_C.servei.horesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Proyecto_M7_C.servei.horesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Proyecto_M7_C.servei.horesCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Proyecto_M7_C.servei.calculDespesesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Proyecto_M7_C.servei.calculDespesesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Proyecto_M7_C.servei.calculDespesesCompletedEventArgs">
+	<remarks/>
 </member><member name="F:Proyecto_M7_C.vistaEmpleados.form1">
 	<summary>
 Control form1.
@@ -102,75 +272,9 @@ Control SqlDataSource2.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Proyecto_M7_C.Login.RegisterHyperLink">
-	<summary>
-Control RegisterHyperLink.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Proyecto_M7_C.Login.LoginUser">
-	<summary>
-Control LoginUser.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="M:Proyecto_M7_C.servei.WebService1.#ctor">
-	<remarks/>
-</member><member name="E:Proyecto_M7_C.servei.WebService1.horesCompleted">
-	<remarks/>
-</member><member name="E:Proyecto_M7_C.servei.WebService1.calculDespesesCompleted">
-	<remarks/>
-</member><member name="M:Proyecto_M7_C.servei.WebService1.hores">
-	<remarks/>
-</member><member name="M:Proyecto_M7_C.servei.WebService1.horesAsync">
-	<remarks/>
-</member><member name="M:Proyecto_M7_C.servei.WebService1.horesAsync(System.Object)">
-	<remarks/>
-</member><member name="M:Proyecto_M7_C.servei.WebService1.calculDespeses(System.Int32,System.Int32)">
-	<remarks/>
-</member><member name="M:Proyecto_M7_C.servei.WebService1.calculDespesesAsync(System.Int32,System.Int32)">
-	<remarks/>
-</member><member name="M:Proyecto_M7_C.servei.WebService1.calculDespesesAsync(System.Int32,System.Int32,System.Object)">
-	<remarks/>
-</member><member name="M:Proyecto_M7_C.servei.WebService1.CancelAsync(System.Object)">
-	<remarks/>
-</member><member name="T:Proyecto_M7_C.servei.WebService1">
-	<remarks/>
-</member><member name="T:Proyecto_M7_C.servei.horesCompletedEventHandler">
-	<remarks/>
-</member><member name="P:Proyecto_M7_C.servei.horesCompletedEventArgs.Result">
-	<remarks/>
-</member><member name="T:Proyecto_M7_C.servei.horesCompletedEventArgs">
-	<remarks/>
-</member><member name="T:Proyecto_M7_C.servei.calculDespesesCompletedEventHandler">
-	<remarks/>
-</member><member name="P:Proyecto_M7_C.servei.calculDespesesCompletedEventArgs.Result">
-	<remarks/>
-</member><member name="T:Proyecto_M7_C.servei.calculDespesesCompletedEventArgs">
-	<remarks/>
 </member><member name="F:Proyecto_M7_C.ChangePassword.ChangeUserPassword">
 	<summary>
 Control ChangeUserPassword.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Proyecto_M7_C.Register.RegisterUser">
-	<summary>
-Control RegisterUser.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Proyecto_M7_C.Register.RegisterUserWizardStep">
-	<summary>
-Control RegisterUserWizardStep.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -209,6 +313,22 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
  Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
  </summary>
 	<remarks></remarks>
+</member><member name="F:Proyecto_M7_C.Login.RegisterHyperLink">
+	<summary>
+Control RegisterHyperLink.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Proyecto_M7_C.Login.LoginUser">
+	<summary>
+Control LoginUser.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member><member name="F:Proyecto_M7_C.veureDespesesEmpleat.form1">
 	<summary>
 Control form1.

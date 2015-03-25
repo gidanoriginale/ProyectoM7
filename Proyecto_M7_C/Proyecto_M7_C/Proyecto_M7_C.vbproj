@@ -104,12 +104,13 @@
     <Content Include="Scripts\jquery-1.4.1.min.js" />
     <Content Include="view\veureCursosNoLaborals.aspx" />
     <Content Include="view\veureDespesesEmpleat.aspx" />
-    <Content Include="vistaEmpleados.aspx" />
+    <Content Include="view\vistaEmpleados.aspx" />
     <None Include="Web References\servei\Reference.map">
       <Generator>MSDiscoCodeGenerator</Generator>
       <LastGenOutput>Reference.vb</LastGenOutput>
     </None>
     <None Include="Web References\servei\WebService1.disco" />
+    <Content Include="view\asignarCursos.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -166,6 +167,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="model\business\Assignacio.vb" />
+    <Compile Include="model\business\Categoria.vb" />
     <Compile Include="model\business\Curs.vb" />
     <Compile Include="model\business\Empleat.vb" />
     <Compile Include="model\business\Empresa.vb" />
@@ -210,11 +212,18 @@
       <DependentUpon>veureDespesesEmpleat.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="vistaEmpleados.aspx.designer.vb">
+    <Compile Include="view\vistaEmpleados.aspx.designer.vb">
       <DependentUpon>vistaEmpleados.aspx</DependentUpon>
     </Compile>
-    <Compile Include="vistaEmpleados.aspx.vb">
+    <Compile Include="view\vistaEmpleados.aspx.vb">
       <DependentUpon>vistaEmpleados.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="view\asignarCursos.aspx.designer.vb">
+      <DependentUpon>asignarCursos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="view\asignarCursos.aspx.vb">
+      <DependentUpon>asignarCursos.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Web References\servei\Reference.vb">
@@ -275,7 +284,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>51714</DevelopmentServerPort>
+          <DevelopmentServerPort>60237</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>
