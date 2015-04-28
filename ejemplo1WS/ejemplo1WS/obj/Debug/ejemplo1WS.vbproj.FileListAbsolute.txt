@@ -14,3 +14,11 @@ C:\Users\Ines\Documents\Visual Studio 2010\Projects\Solucion A media WebService 
 C:\Users\Ines\Documents\Visual Studio 2010\Projects\Solucion A media WebService Diagrama\ejemplo1WS\ejemplo1WS\obj\Debug\ejemplo1WS.dll
 C:\Users\Ines\Documents\Visual Studio 2010\Projects\Solucion A media WebService Diagrama\ejemplo1WS\ejemplo1WS\obj\Debug\ejemplo1WS.xml
 C:\Users\Ines\Documents\Visual Studio 2010\Projects\Solucion A media WebService Diagrama\ejemplo1WS\ejemplo1WS\obj\Debug\ejemplo1WS.pdb
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\ProyectoM7\ejemplo1WS\ejemplo1WS\bin\ejemplo1WS.dll
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\ProyectoM7\ejemplo1WS\ejemplo1WS\bin\ejemplo1WS.pdb
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\ProyectoM7\ejemplo1WS\ejemplo1WS\bin\ejemplo1WS.xml
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\ProyectoM7\ejemplo1WS\ejemplo1WS\obj\Debug\ejemplo1WS.Resources.resources
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\ProyectoM7\ejemplo1WS\ejemplo1WS\obj\Debug\ejemplo1WS.vbproj.GenerateResource.Cache
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\ProyectoM7\ejemplo1WS\ejemplo1WS\obj\Debug\ejemplo1WS.dll
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\ProyectoM7\ejemplo1WS\ejemplo1WS\obj\Debug\ejemplo1WS.xml
+C:\Users\Ines\Documents\Visual Studio 2010\Projects\ProyectoM7\ejemplo1WS\ejemplo1WS\obj\Debug\ejemplo1WS.pdb

@@ -97,9 +97,9 @@
             &nbsp;<asp:LinkButton ID="UpdateCancelButton" runat="server" 
                 CausesValidation="False" CommandName="Cancel" Text="Cancelar" />
         </EditItemTemplate>
-        <EditRowStyle BackColor="#999999" />
-        <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
-        <HeaderStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
+        <EditRowStyle BackColor="#2461BF" />
+        <FooterStyle BackColor="#507CD1" Font-Bold="True" ForeColor="White" />
+        <HeaderStyle BackColor="#507CD1" Font-Bold="True" ForeColor="White" />
         <InsertItemTemplate>
             nom:
             <asp:TextBox ID="nomTextBox" runat="server" Text='<%# Bind("nom") %>' />
@@ -149,10 +149,9 @@
             &nbsp;<asp:LinkButton ID="NewButton" runat="server" CausesValidation="False" 
                 CommandName="New" Text="Nuevo" />
         </ItemTemplate>
-        <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Center" />
-        <RowStyle BackColor="#F7F6F3" ForeColor="#333333" />
+        <PagerStyle BackColor="#2461BF" ForeColor="White" HorizontalAlign="Center" />
+        <RowStyle BackColor="#EFF3FB" />
     </asp:FormView>
-            <br />
             <br />
         <asp:Button ID="Button1" runat="server" Text="Assignar Cursos" />
     

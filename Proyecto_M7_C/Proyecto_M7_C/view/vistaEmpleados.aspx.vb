@@ -9,4 +9,7 @@
         Server.Transfer("asignarCursos.aspx")
     End Sub
     
+    Protected Sub GridView1_SelectedIndexChanged(ByVal sender As Object, ByVal e As EventArgs) Handles GridView1.SelectedIndexChanged
+        FormView1.PageIndex = GridView1.SelectedIndex
+    End Sub
 End Class
