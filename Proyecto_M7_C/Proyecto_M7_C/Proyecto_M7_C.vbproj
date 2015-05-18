@@ -102,6 +102,8 @@
     <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
     <Content Include="Scripts\jquery-1.4.1.js" />
     <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="view\veureAssignacions.aspx" />
+    <Content Include="view\veureCursos.aspx" />
     <Content Include="view\veureCursosNoLaborals.aspx" />
     <Content Include="view\veureDespesesEmpleat.aspx" />
     <Content Include="view\vistaEmpleados.aspx" />
@@ -171,7 +173,7 @@
     <Compile Include="model\business\Curs.vb" />
     <Compile Include="model\business\Empleat.vb" />
     <Compile Include="model\business\Empresa.vb" />
-    <Compile Include="Module2.vb" />
+    <Compile Include="controller\Module2.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -197,6 +199,20 @@
     <Compile Include="Site.Master.vb">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="view\veureAssignacions.aspx.designer.vb">
+      <DependentUpon>veureAssignacions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="view\veureAssignacions.aspx.vb">
+      <DependentUpon>veureAssignacions.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="view\veureCursos.aspx.designer.vb">
+      <DependentUpon>veureCursos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="view\veureCursos.aspx.vb">
+      <DependentUpon>veureCursos.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="view\veureCursosNoLaborals.aspx.designer.vb">
       <DependentUpon>veureCursosNoLaborals.aspx</DependentUpon>

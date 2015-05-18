@@ -12,7 +12,7 @@
     <br />
     <div>
     
-        <asp:Label ID="Label2" runat="server" Text="Trabajador"></asp:Label>
+        <asp:Label ID="Label2" runat="server" Text="Treballador"></asp:Label>
     
         <asp:DropDownList ID="DropDownList1" runat="server" 
             DataSourceID="SqlDataSource1" DataTextField="nom" DataValueField="id">
@@ -22,13 +22,20 @@
             SelectCommand="SELECT * FROM [Empleat]"></asp:SqlDataSource>
     
     </div>
-    <asp:Label ID="Label3" runat="server" Text="Curso Obligatorio"></asp:Label>
-    <asp:DropDownList ID="DropDownList2" runat="server">
+    <asp:Label ID="Label3" runat="server" Text="Curs"></asp:Label>
+    <asp:DropDownList ID="DropDownList2" runat="server" 
+        DataSourceID="SqlDataSource3" DataTextField="nom" DataValueField="hores">
     </asp:DropDownList>
+    <asp:SqlDataSource ID="SqlDataSource3" runat="server" 
+        ConnectionString="<%$ ConnectionStrings:ConnectionString %>" 
+        SelectCommand="SELECT * FROM [Curs]"></asp:SqlDataSource>
     <br />
-    <asp:Label ID="Label4" runat="server" Text="Label"></asp:Label>
+    Hores curs: 
+    <asp:Label ID="Label4" runat="server"></asp:Label>
     <br />
-    <asp:Label ID="Label5" runat="server" Text="Label"></asp:Label>
+    <br />
+    <br />
+    <asp:Button ID="Button1" runat="server" Text="Assignar" />
     </form>
 </body>
 </html>
